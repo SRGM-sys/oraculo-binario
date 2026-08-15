@@ -22,7 +22,8 @@ Este programa es un oráculo interactivo capaz de adivinar tu fecha de cumpleañ
 ## Imagen del juego
 
 <div align="center">
-  <img src="./screenshot1.png" width="45%" alt="Captura de pantalla de la interfaz del Oráculo y el sensor de manos">
+  <img src="./Captura1.png" width="45%" alt="Visualizando la tabla y Python leyendo mi mano">
+  <img src="./Captura2.png" width="45%" alt="Adivinando la fecha">
   <br>
-  <em>Capturas que muestran la interfaz gráfica en C++, el cálculo de la fecha y la detección de gestos por cámara en Python.</em>
+  <em>Izquierda: Visualizando la tabla y Python leyendo la mano en tiempo real. <br> Derecha: El sistema calculando y adivinando la fecha exacta.</em>
 </div>
